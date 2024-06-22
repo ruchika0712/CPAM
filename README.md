@@ -21,7 +21,7 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ruchika0712/CPAM.git
+   git clone https://github.com/devashish-gupta09/CPAM.git
    ```
 
 2. **Navigate to the project directory:**
